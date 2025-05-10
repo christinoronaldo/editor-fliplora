@@ -2,7 +2,7 @@ asgiref==3.8.1
 Django==5.2
 djangorestframework==3.16.0
 mysqlclient==2.2.7
-gunicorn==21.2.0
+gunicorn==23.0.0
 schema==0.7.7
 sqlparse==0.5.3
 tzdata==2025.2

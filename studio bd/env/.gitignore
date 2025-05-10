@@ -1,0 +1,12 @@
+env/
+*.dll
+*.lib
+*.pkl
+*.pt
+*.h5
+__pycache__/
+*.pyc
+*.log
+*.sqlite3
+media/
+db.sqlite3
